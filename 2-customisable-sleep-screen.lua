@@ -1,6 +1,6 @@
 local PATCH_VERSION = "1.0.0"
 local PATCH_NAME = "Customisable Sleep Screen"
-local GITHUB_REPO = "pxlflux/KOReader-patches"
+local GITHUB_REPO = "pxlflux/koreader-patches"
 
 local Font              = require("ui/font")
 local Blitbuffer        = require("ffi/blitbuffer")
