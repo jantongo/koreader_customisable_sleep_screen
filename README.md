@@ -20,10 +20,11 @@ A KOReader patch that displays reading statistics and book information on your s
 - Option to clean chapter title (remove prefixes like "Chapter 5:", leaving chapter names only).
 - Option to show in file manager (displays last book's data).
 - Quick access via taps and gestures shortcuts.
+- Portrait mode and landscape mode background images.
 
 ## Tested On:
 
-- KOReader 2025.10 (Ghost) with Kobo Libra Colour & Kindle PW 10th Gen.
+- KOReader 2025.10 (Ghost) with Kobo Libra Colour & Kindle PW 10th Gen & Kindle PW 12th Gen
 
 ## Notes:
 
@@ -31,6 +32,7 @@ A KOReader patch that displays reading statistics and book information on your s
 - Adding custom font faces: Add .ttf/.otf files to koreader/fonts/.
 - Quick access shortcuts: Add preset switching and settings access to your KOReader taps & gestures. The options can be found in the taps & gestures general category.
 - Better visibility: Enable "Postpone screen update after wakeup" in settings to show sleep screen with front-light when waking up the device.
+- Landscape backgrounds: You can set specific images for landscape use: just name them someimagename.landscape.png (or .jpg).
 
 ## Installation:
 
